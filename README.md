@@ -186,10 +186,13 @@ I work across programming, software-development workflows, and AI/ML tools. The 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhargavsrikar-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bhargav's GitHub statistics" />
-<img height="165" src="https://streak-stats.demolab.com?user=bhargavsrikar-5&theme=tokyonight&hide_border=true" alt="Bhargav's GitHub streak" />
+<a href="https://github.com/bhargavsrikar-5?tab=overview">
+  <img height="180" src="https://streak-stats.demolab.com?user=bhargavsrikar-5&theme=tokyonight&hide_border=true" alt="Bhargav's GitHub contribution streak" />
+</a>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavsrikar-5&theme=tokyo-night&hide_border=true" alt="Bhargav's GitHub contribution activity" />
+<p><em>Explore my profile for GitHub's native contribution calendar, pinned repositories, and recent activity.</em></p>
+
+<a href="https://github.com/bhargavsrikar-5?tab=overview">View GitHub Overview</a>
 
 </div>
 
